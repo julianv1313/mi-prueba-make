@@ -1,0 +1,27 @@
+p
+{
+    color: black;
+    font-size: 40px;
+}
+.class1
+{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+.class2
+{
+color: blue;
+font-style: italic;
+}
+.class3
+{
+color: green;
+}
+.class4
+{
+    background-color: black;
+}
+.class5
+{
+    background: chartreuse;
+}
